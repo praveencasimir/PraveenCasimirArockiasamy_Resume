@@ -9,15 +9,19 @@ version: 2
 name: Praveen Casimir Arockiasamy
 title: Technology Architect
 email: praveen.casimir@gmail.com
-link: https://drive.google.com/file/d/1JrVitQ5fpDGEv55TL6wOhGtmCj-lf8vV/view?usp=drive_link
+# website: "https://drive.google.com/file/d/1JrVitQ5fpDGEv55TL6wOhGtmCj-lf8vV/view?usp=drive_link"
+resume_link: https://drive.google.com/file/d/1JrVitQ5fpDGEv55TL6wOhGtmCj-lf8vV/view?usp=sharing
+phone: +91 9884222580
+
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: praveencasimir
-github_username:  praveencasimir
+# github_username:  praveencasimir
 gmail_username: praveen.casimir@gmail.com
+whatsapp_username: +919884222580
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -38,6 +42,14 @@ linkedin_username: praveenarockiasamy
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+additional_links:
+  - title: WhatsApp
+    icon: fab fa-whatsapp
+    url: https://wa.me/919884222580
+  - title: Resume
+    icon: fas fa-file-alt
+    url: https://drive.google.com/file/d/1JrVitQ5fpDGEv55TL6wOhGtmCj-lf8vV/view?usp=sharing
+
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
