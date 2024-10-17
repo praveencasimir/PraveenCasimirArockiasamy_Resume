@@ -56,8 +56,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        # title: Super awesome project
+        # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
@@ -69,7 +69,7 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          GCP Apigee, AWS APIGateway, AWS Lambda, Webmethods IO APIGateway, Webmethods IO Integration, Oracle SOA Suite, Oracle Service Bus, Tableau, Data Science, Python, GitHub Actions, DevOps
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -80,6 +80,17 @@ content:
         link_text: cognizant.com
         sub_title: Technology Architect
         caption: February 2012 - Present
+        quote: >
+          quote text here
+        description: | # this will include new lines to allow paragraphs
+            description here
+
+      - layout: left
+        title: Oracle Financial Services Software Ltd
+        link: https://www.oracle.com/in/financial-services/
+        link_text: oracle.com/in/financial-services/
+        sub_title: Senior Consultant
+        caption: Nov 2006 - Dec 2011
         quote: >
           quote text here
         description: | # this will include new lines to allow paragraphs
