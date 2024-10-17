@@ -17,6 +17,7 @@ darkmode: false
 # Social links
 # twitter_username: praveencasimir
 github_username:  praveencasimir
+gmail_username: praveen.casimir@gmail.com
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -83,7 +84,14 @@ content:
         # quote: >
         #   quote text here
         description: | # this will include new lines to allow paragraphs
-            description here
+            * Lead the design and implementation of integration architectures for clients, ensuring alignment with business objectives and technical requirements.
+            * Spearheaded the establishment of SOA governance processes, guidelines and checklists.
+            * Anchored the implementation of Apigee and WM.IO products, establishing governance, best practices and common services.
+            * Achieved $300k+ in value savings by automating developer and operations team activities, significantly improving innovation metrics.
+            * Reduced deployment time by 10x, enhancing efficiency for the development and operations teams.
+            * Enhanced team capabilities by introducing new tools and practices, resulting in faster development, testing, and deployment.
+            * Led multiple integration projects involving Oracle SOA Suite and Service Bus, optimizing middleware solutions for various clients using Oracle Fusion Middleware, Apigee, and WebMethods.IO. Led integration initiatives at Celgene Corporation, enhancing on-premises and cloud systems connectivity while migrating services and optimizing middleware solutions to improve operational efficiency.
+            * Served as Scrum Master/Technical Lead for AstraZeneca’s AZIA Transformation project, streamlining integration technologies and governance processes to enhance efficiency and reduce maintenance costs across global operations.
 
       - layout: left
         title: Oracle Financial Services Software Ltd
@@ -94,7 +102,8 @@ content:
         # quote: >
         #   quote text here
         description: | # this will include new lines to allow paragraphs
-            description here
+            As Team Lead for the Payments Integration Accelerator Framework at OFSS, I lead the development of a middleware solution that streamlined financial message interactions, significantly enhancing implementation efficiency for banking clients. My leadership fostered knowledge transfer and technical excellence, ensuring robust system integrations across diverse.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -107,6 +116,24 @@ content:
         title: Woolf University, Scaler
         caption: 2024 - 2026*
         sub_title: M.Sc Data Science & Machine Learning
+
+  - title: Global Work Locations # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Worked at
+        image: images/locations.jpg
+        description: |
+          ![Worked Locations](images/locations.jpg)
+          1. Bangalore, Karnataka, India
+          2. Chennai, Tamil Nadu, India
+          3. Pune, Maharashtra, India
+          4. London, United Kingdom  
+          5. Johannesburg, South Africa
+          6. Amsterdam, Netherlands
+          7. Sweden
+          8. New Jersey, USA
+
         
 
   # - title: A Little More About Me
