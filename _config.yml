@@ -9,7 +9,7 @@ version: 2
 name: Praveen Casimir Arockiasamy
 title: Technology Architect
 email: praveen.casimir@gmail.com
-website: www.github.com/sproogen/resume-theme
+# website: www.github.com/praveencasimir/PraveenCasimirArockiasamy_Resume
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -99,19 +99,16 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: center
         title: St.Josephs College of Engineering, Anna University, Chennai, Tamil Nadu, India
         caption: 2002 - 2006
         sub_title: B.Tech Information Technology
-        quote: >
-          quote text here
-        description: | # this will include new lines to allow paragraphs
-          Description
+        
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      content
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     content
 
       
 # Footer
