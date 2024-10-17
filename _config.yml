@@ -9,7 +9,7 @@ version: 2
 name: Praveen Casimir Arockiasamy
 title: Technology Architect
 email: praveen.casimir@gmail.com
-resume: https://drive.google.com/file/d/1JrVitQ5fpDGEv55TL6wOhGtmCj-lf8vV/view?usp=drive_link
+link: https://drive.google.com/file/d/1JrVitQ5fpDGEv55TL6wOhGtmCj-lf8vV/view?usp=drive_link
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -99,12 +99,12 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
+      - layout: top-middle
         title: St.Josephs College of Engineering, Anna University, Chennai, Tamil Nadu, India
         caption: 2002 - 2006
         sub_title: B.Tech Information Technology
-      - layout: middle
-        title: Woolf University, Scaler - 
+      - layout: top-middle
+        title: Woolf University, Scaler
         caption: 2024 - 2026*
         sub_title: M.Sc Data Science & Machine Learning
         
