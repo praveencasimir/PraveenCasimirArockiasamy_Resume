@@ -9,7 +9,7 @@ version: 2
 name: Praveen Casimir Arockiasamy
 title: Technology Architect
 email: praveen.casimir@gmail.com
-# website: www.github.com/praveencasimir/PraveenCasimirArockiasamy_Resume
+resume: https://drive.google.com/file/d/1JrVitQ5fpDGEv55TL6wOhGtmCj-lf8vV/view?usp=drive_link
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -80,8 +80,8 @@ content:
         link_text: cognizant.com
         sub_title: Technology Architect
         caption: February 2012 - Present
-        quote: >
-          quote text here
+        # quote: >
+        #   quote text here
         description: | # this will include new lines to allow paragraphs
             description here
 
@@ -91,18 +91,22 @@ content:
         link_text: oracle.com/in/financial-services/
         sub_title: Senior Consultant
         caption: Nov 2006 - Dec 2011
-        quote: >
-          quote text here
+        # quote: >
+        #   quote text here
         description: | # this will include new lines to allow paragraphs
             description here
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: middle
         title: St.Josephs College of Engineering, Anna University, Chennai, Tamil Nadu, India
         caption: 2002 - 2006
         sub_title: B.Tech Information Technology
+      - layout: middle
+        title: Woolf University, Scaler - 
+        caption: 2024 - 2026*
+        sub_title: M.Sc Data Science & Machine Learning
         
 
   # - title: A Little More About Me
