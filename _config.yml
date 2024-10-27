@@ -65,7 +65,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Technologies # Title for the section
+  - title: Technologies/Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -82,7 +82,8 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          GCP Apigee, AWS APIGateway, AWS Lambda, Webmethods IO APIGateway, Webmethods IO Integration, Oracle SOA Suite, Oracle Service Bus, Tableau, Data Science, Python, GitHub Actions, DevOps
+          GCP Apigee, AWS APIGateway, AWS Lambda, Webmethods IO API Gateway, Webmethods IO Integration, Oracle SOA Suite, Oracle Service Bus, 
+          Tableau, Data Science, Python, GitHub Actions, DevOps, Java, JavaScript, OpenAPI, JSON, REST, SOAP, Terraform, API Management
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
