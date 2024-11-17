@@ -82,8 +82,13 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          GCP Apigee, AWS APIGateway, AWS Lambda, Webmethods IO API Gateway, Webmethods IO Integration, Oracle SOA Suite, Oracle Service Bus, 
-          Tableau, Data Science, Python, GitHub Actions, DevOps, Java, JavaScript, OpenAPI, JSON, REST, SOAP, Terraform, API Management
+          GCP Apigee, APIHub, BigQuery, AWS APIGateway, AWS Lambda, 
+          Webmethods IO API Gateway, Webmethods IO Integration, Oracle SOA Suite, Oracle Service Bus, 
+          Tableau, Data Science, 
+          Python, Java, JavaScript, 
+          GitHub Actions, DevOps, Terraform, Jenkins, 
+          Junit, APICKLI, Postman, 
+          OpenAPI, JSON, REST, SOAP, API Management, Swagger
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -129,6 +134,19 @@ content:
         title: Woolf University, Scaler
         caption: 2024 - 2026*
         sub_title: M.Sc Data Science & Machine Learning
+
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Oracle Cloud Infrastructure 2023 Foundations Associate Certification 
+        caption: 2024
+        sub_title: 1Z0-1085-23
+      - layout: top-middle
+        title: Oracle Cloud Infrastructure 2023 AI Foundations Associate Certification 
+        caption: 2024
+        sub_title: 1Z0-1122-23
+
 
   - title: Global Work Locations # Title for the section
     layout: list # Type of content section (list/text)
