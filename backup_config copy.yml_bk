@@ -61,7 +61,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile-praveen.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Technology Architect with over 17 years of experience in architecting middleware solutions using Oracle Fusion Middleware, specializing in SOA, DevOps, Apigee and AWS. Skilled in delivering innovative integration solutions across industries, I am currently advancing my expertise through a Master’s in Artificial Intelligence & Machine Learning.
+  An accomplished Integration Architect with over 17 years of experience in architecting middleware solutions using Oracle Fusion Middleware, specializing in SOA, DevOps, Apigee and AWS. Skilled in delivering innovative integration solutions across industries, I am currently advancing my expertise through a Master’s in Artificial Intelligence & Machine Learning.
 
 
 content:
@@ -82,12 +82,13 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-           **Technologies:**
-          Oracle SOA, Oracle Service Bus, Apigee, Wm.IO ApiGateway/Integration, CICD, DevOps, Open API, Automation Testing, PLSQL, BigQuery.
-
-          **Tools:**
-          GCP, AWS, Oracle Fusion Middleware, Webmethods, Git, GitHub, CICD, Jenkins, Junit, Apickli, GitHub Pages, Python Programming, Java, Node.js, Django, Tableau, Oracle Integration Cloud, Oracle Open Search, Subversion.
-
+          GCP Apigee, APIHub, BigQuery, AWS APIGateway, AWS Lambda, 
+          Webmethods IO API Gateway, Webmethods IO Integration, Oracle SOA Suite, Oracle Service Bus, 
+          Tableau, Data Science, 
+          Python, Java, JavaScript, 
+          GitHub Actions, DevOps, Terraform, Jenkins, 
+          Junit, APICKLI, Postman, 
+          OpenAPI, JSON, REST, SOAP, API Management, Swagger
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,63 +98,30 @@ content:
         link: https://www.cognizant.com/in/en
         link_text: cognizant.com
         sub_title: Technology Architect
-        caption: January 2012 - Present (12 years 11 months)
+        caption: February 2012 - Present
+        # quote: >
+        #   quote text here
         description: | # this will include new lines to allow paragraphs
-            **Client: Trane Technologies**
-
-            - Architected SubInventory transfers via Apigee to EBS based on Surgere RFID movements
-            - API based architecture for Compliance Rating of Projects and SalesOrders with E2Open
-            - Modernising Architecture for Oracle EBS Payments and Bank Statements integration with Finastra, JPMC...
-            - Enabling headless search for Salesforce Portal with YEXT integration
-            - Automated Address validations for Coupa with Melissa API and callbacks
-            - Reducing 50% manual efforts by enabling change data capture sync from Salesforce to ComfortSite
-            - Implementing Apigeelint and custom validation rules on PR Process for Apigee Proxy developments
-            - Establishing approval process in the CICD for Proxy deployments
-            - Automation testing implementation with Postman/newman and apickli for API testing
-            - GCP Apigee, Webmethods.IO APIGateway/Integration product feasibility and patterns implementation for adoption
-            - Enabling Salesforce ECommerce integrations Architecture with CyberSource, Vertex, FedEx and UPS
-            - Open API spec templatization and Documentation with GitHub Pages
-            - Algorithm for Fusion Middleware dependency resolution and sequencing logic in CI/CD with Python to facilitate Mono Repo deployments for 500+ services.
-
-            **Client: Celgene - Bristol Meyers Squibb**
-
-            - Migrated entrie Middleware services between datacenters with effective test filteration and automated network checks for firewall verifications. Improving testing time from days to minutes.
-            - Automated testing to assist Migration verification
-            - Automated EBS Manufacturing recipe imports with parallel processing features improving productivity by 50%
-            - Migration of existing services to Oracle Fusion Middleware to 12cR2
-            - Architected various integrations with Salesforce, EBS, Workday, Peoplesoft and various SaaS systems.
-            - Improving Drug Safety import process via async integration Architecture
-            - API design and data gathering for Drug Safety IBM Watson integration
-            - Automated Fusion deployment process with Jenkins and ant.
-
-            **Client: AstraZeneca**
-
-            - Served as Scrum Master/Technical Lead for AstraZeneca’s AZIA Transformation project, streamlining integration technologies and governance processes to enhance efficiency and reduce maintenance costs across global operations.
-            - Technical Lead for US Fusion Middleware support operations offshore.
-            - Production support lead
-            - Mentoring team members and Knowledge Video library creation
-
-            Worked in Chennai India and New Jersey USA
+            * Lead the design and implementation of integration architectures for clients, ensuring alignment with business objectives and technical requirements.
+            * Spearheaded the establishment of SOA governance processes, guidelines and checklists.
+            * Anchored the implementation of Apigee and WM.IO products, establishing governance, best practices and common services.
+            * Achieved $300k+ in value savings by automating developer and operations team activities, significantly improving innovation metrics.
+            * Reduced deployment time by 10x, enhancing efficiency for the development and operations teams.
+            * Enhanced team capabilities by introducing new tools and practices, resulting in faster development, testing, and deployment.
+            * Led multiple integration projects involving Oracle SOA Suite and Service Bus, optimizing middleware solutions for various clients using Oracle Fusion Middleware, Apigee, and WebMethods.IO. Led integration initiatives at Celgene Corporation, enhancing on-premises and cloud systems connectivity while migrating services and optimizing middleware solutions to improve operational efficiency.
+            * Served as Scrum Master/Technical Lead for AstraZeneca’s AZIA Transformation project, streamlining integration technologies and governance processes to enhance efficiency and reduce maintenance costs across global operations.
 
       - layout: left
         title: Oracle Financial Services Software Ltd
         link: https://www.oracle.com/in/financial-services/
         link_text: oracle.com/in/financial-services/
         sub_title: Senior Consultant
-        caption: November 2006 - December 2011 (5 years 2 months)
+        caption: Nov 2006 - Dec 2011
+        # quote: >
+        #   quote text here
         description: | # this will include new lines to allow paragraphs
-            As Team Lead for the Payments Integration Accelerator Framework at OFSS, led the development of a middleware solution that streamlined financial message interactions, significantly enhancing implementation efficiency for banking clients. Fostered knowledge transfer and technical excellence, ensuring robust system integrations across diverse locations including Chennai, Bengaluru, Pune, Johannesburg, Amsterdam, Sweden, and London.
+            As Team Lead for the Payments Integration Accelerator Framework at OFSS, I lead the development of a middleware solution that streamlined financial message interactions, significantly enhancing implementation efficiency for banking clients. My leadership fostered knowledge transfer and technical excellence, ensuring robust system integrations across diverse.
 
-  - title: Technical Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        description: | # this will include new lines to allow paragraphs
-          - Apigee proxy sharedflow target flow visualization
-          - Apigee KVM rendering for Operations team visibility
-          - Metabase visualization for planning migration and improving efficiency
-          - Walmart/Netflix/Aerofit Data Analytics and Visualization (Scaler)
-          - Enthusiast PineScript developer
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
