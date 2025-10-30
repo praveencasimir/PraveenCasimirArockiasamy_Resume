@@ -93,7 +93,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Volante Technologies Pvt Ltd
+        title: Volante Technologies
         link: https://www.volantetech.com
         link_text: volantetech.com
         sub_title: Senior Technology Architect - Enterprise Architecture
