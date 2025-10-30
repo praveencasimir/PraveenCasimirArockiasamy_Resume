@@ -93,11 +93,26 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Volante Technologies Pvt Ltd
+        link: https://www.volantetech.com
+        link_text: volantetech.com
+        sub_title: Senior Technology Architect - Enterprise Architecture
+        caption: April 2025 - Present (6 months)
+        description: | # this will include new lines to allow paragraphs
+            - Automating Data Model documentation for various versions of the product.
+            - DevOps automation for various modules of the product.
+            - Built tools to Visualize event based messaging flows for better understanding of complex integrations.
+            - Documentation automation for various modules of the product.
+            - Test suite automation for various modules of the product.
+            - Working on improving Developer experience with better tools and automation.
+            - Empowering employees with knowledge sharing sessions and tech talks.
+
+      - layout: left
         title: Cognizant Technology Solutions Software Ltd
         link: https://www.cognizant.com/in/en
         link_text: cognizant.com
         sub_title: Technology Architect
-        caption: January 2012 - Present (12 years 11 months)
+        caption: January 2012 - April 2025 (13 years 4 months)
         description: | # this will include new lines to allow paragraphs
             **Client: Trane Technologies**
 
